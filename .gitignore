@@ -1,0 +1,12 @@
+# vscode
+.vscode
+
+#macos
+.DS_Store
+
+#idea
+.idea
+
+#cmake
+build
+cmake-build-debug

@@ -1,2 +1,3 @@
-# decision-tree
-Decision Tree in C++
+# Decision Tree
+
+Decision Tree in C++.
