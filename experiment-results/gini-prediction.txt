@@ -1,0 +1,49 @@
+Decision Tree
+= = = = = = = = = = = = = = = =
+Testing
+= = = = = = = = = = = = = = = =
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Versicolor": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
+Current: "Virginica", Predict: { "Virginica": 100%,  }
